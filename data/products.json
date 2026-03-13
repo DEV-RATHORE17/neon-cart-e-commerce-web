@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Neon Genesis Headphones",
+    "price": 299.99,
+    "category": "Audio",
+    "rating": 4.8,
+    "description": "Premium wireless headphones with active noise cancellation and glowing neon accents. Incredible bass response and clear highs for true audiophiles.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Quantum Smartwatch",
+    "price": 199.50,
+    "category": "Wearables",
+    "rating": 4.5,
+    "description": "Next-generation smartwatch featuring a holographic interface, health tracking, and seamless smartphone integration.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Cyber Deck Keyboard",
+    "price": 149.99,
+    "category": "Electronics",
+    "rating": 4.9,
+    "description": "Mechanical gaming keyboard with custom RGB per-key lighting, hot-swappable switches, and an aluminum chassis.",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Echo Bass Speaker",
+    "price": 89.99,
+    "category": "Audio",
+    "rating": 4.2,
+    "description": "Portable bluetooth speaker designed for the outdoors. Waterproof and features 360-degree sound distribution.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Nova Virtual Reality Headset",
+    "price": 499.00,
+    "category": "Electronics",
+    "rating": 4.7,
+    "description": "Step into the metaverse with dual 4K displays and ultra-low latency tracking. The perfect VR experience.",
+    "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Aero Drone Pro",
+    "price": 899.99,
+    "category": "Electronics",
+    "rating": 4.9,
+    "description": "Capture stunning 8K video with this lightweight but powerful drone, featuring obstacle avoidance and subject tracking.",
+    "image": "https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Pulse Sport Earbuds",
+    "price": 129.99,
+    "category": "Audio",
+    "rating": 4.4,
+    "description": "Sweat-proof true wireless earbuds that map to the shape of your ear. Stay secure during the most intense workouts.",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Titanium Fitness Ring",
+    "price": 249.00,
+    "category": "Wearables",
+    "rating": 4.6,
+    "description": "Sleek and minimalist fitness tracker worn on the finger. Tracks sleep, heart rate, and temperature with high precision.",
+    "image": "https://images.unsplash.com/photo-1599643478524-fb524419951d?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Synth-wave Controller",
+    "price": 69.99,
+    "category": "Accessories",
+    "rating": 4.3,
+    "description": "Pro-level gaming controller with adjustable trigger sensitivity, mapping profiles, and a retrowave inspired paint job.",
+    "image": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Holo-Display Monitor",
+    "price": 799.50,
+    "category": "Electronics",
+    "rating": 4.8,
+    "description": "34-inch ultrawide curved monitor with 240Hz refresh rate and absolute zero bezel design.",
+    "image": "https://images.unsplash.com/photo-1527443154391-507e9dc6c5cc?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 11,
+    "name": "Aura Smart Mirror",
+    "price": 349.00,
+    "category": "Accessories",
+    "rating": 4.1,
+    "description": "A mirror that displays your calendar, weather, and news while you get ready in the morning. Voice activated.",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b46a015?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Velocity Running Shoes",
+    "price": 159.99,
+    "category": "Wearables",
+    "rating": 4.7,
+    "description": "Smart shoes with embedded sensors that analyze your running form and provide real-time coaching via the app.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 13,
+    "name": "Lumina Desk Lamp",
+    "price": 79.99,
+    "category": "Accessories",
+    "rating": 4.5,
+    "description": "Eye-care LED desk lamp with wireless charging pad and multi-color ambient base lighting.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 14,
+    "name": "Sonic Boom Earphones",
+    "price": 49.99,
+    "category": "Audio",
+    "rating": 4.0,
+    "description": "Affordable yet powerful wired earphones designed for heavy bass lovers.",
+    "image": "https://images.unsplash.com/photo-1572569433114-bf4043015fce?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 15,
+    "name": "Orbit Floating Speaker",
+    "price": 199.99,
+    "category": "Audio",
+    "rating": 4.6,
+    "description": "Magnetically levitating speaker that rotates slowly while blasting crisp 360-degree sound.",
+    "image": "https://images.unsplash.com/photo-1544256718-3bda5c1b5a59?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 16,
+    "name": "Stealth Laptop Backpack",
+    "price": 119.50,
+    "category": "Accessories",
+    "rating": 4.8,
+    "description": "Anti-theft backpack with hidden zippers, a USB charging port, and a sleek geometric exoskeleton.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 17,
+    "name": "Zenith Mechanical Watch",
+    "price": 299.00,
+    "category": "Wearables",
+    "rating": 4.9,
+    "description": "A fusion of classic mechanical watchmaking and modern smartwatch connectivity. Skeletonized dial.",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 18,
+    "name": "Chronos Ergonomic Mouse",
+    "price": 89.00,
+    "category": "Electronics",
+    "rating": 4.4,
+    "description": "Vertical ergonomic mouse that reduces wrist strain. Features 6 programmable buttons and an OLED thumb display.",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 19,
+    "name": "Prism Glass Case",
+    "price": 39.99,
+    "category": "Accessories",
+    "rating": 4.2,
+    "description": "Iridescent smartphone case that changes color based on the viewing angle while providing military-grade drop protection.",
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 20,
+    "name": "Nebula Action Camera",
+    "price": 349.99,
+    "category": "Electronics",
+    "rating": 4.7,
+    "description": "Rugged, waterproof action camera shooting in 5K resolution. Perfect for extreme sports and diving.",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600&h=600&fit=crop"
+  }
+]
